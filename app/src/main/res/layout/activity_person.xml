@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.frank.antitheft.PersonActivity">
+
+    <TextView
+        android:id="@+id/textView2w"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:text="个人基本信息"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView3w"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="32dp"
+        android:text="姓名："
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView2w" />
+
+    <TextView
+        android:id="@+id/textView5w"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="32dp"
+        android:text="电话："
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView3w" />
+
+    <TextView
+        android:id="@+id/textView6w"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="32dp"
+        android:text="部门："
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView5w" />
+
+    <TextView
+        android:id="@+id/textView7w"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="32dp"
+        android:text="职位："
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView6w" />
+
+    <TextView
+        android:id="@+id/textView8w"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="32dp"
+        android:text=" "
+        android:textSize="18sp"
+        app:layout_constraintStart_toEndOf="@+id/textView3w"
+        app:layout_constraintTop_toBottomOf="@+id/textView2w" />
+
+    <TextView
+        android:id="@+id/textView9w"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="32dp"
+        android:text=" "
+        android:textSize="18sp"
+        app:layout_constraintStart_toEndOf="@+id/textView5w"
+        app:layout_constraintTop_toBottomOf="@+id/textView8w" />
+
+    <TextView
+        android:id="@+id/textView10w"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="32dp"
+        android:text=" "
+        android:textSize="18sp"
+        app:layout_constraintStart_toEndOf="@+id/textView6w"
+        app:layout_constraintTop_toBottomOf="@+id/textView9w" />
+
+    <TextView
+        android:id="@+id/textView11w"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="32dp"
+        android:text=" "
+        android:textSize="18sp"
+        app:layout_constraintStart_toEndOf="@+id/textView7w"
+        app:layout_constraintTop_toBottomOf="@+id/textView10w" />
+</android.support.constraint.ConstraintLayout>

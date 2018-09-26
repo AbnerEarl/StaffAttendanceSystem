@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\IdeaProjects\TEMUpload\StaffAttendanceSystem\app\libs\MobTools-2016.0303.1229.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="d76d489d04db5e475927a0077c8677b0e3a9fb8a">
+        <dex dex="F:\IdeaProjects\TEMUpload\StaffAttendanceSystem\app\build\intermediates\transforms\dex\debug\folders\1000\2\MobTools-2016.0303.1229_e691752accfd3ddde2db3343b1c75b6876299f9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\IdeaProjects\TEMUpload\StaffAttendanceSystem\app\libs\zxing.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="e88c14e6e7daa0fa65172a62b54ee6a16ff4162d">
+        <dex dex="F:\IdeaProjects\TEMUpload\StaffAttendanceSystem\app\build\intermediates\transforms\dex\debug\folders\1000\2\zxing_42d6aa3e1483aa80b2b68681c35396a89f1f62de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Frank\.android\build-cache\037f1146db4aefa555824252c0ab46507a4966d5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="78ee5666cbae4d47ecc395d55771f76c5573d318">
+        <dex dex="F:\IdeaProjects\TEMUpload\StaffAttendanceSystem\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_94fcad40bfbd6132394c20ba9d923bef1d095ddf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidWorkEnvironment\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.3.0\43e4ac24adc40a24c51b2d2a71a2483ef1b0ce9a\adapter-rxjava-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="43e4ac24adc40a24c51b2d2a71a2483ef1b0ce9a">
+        <dex dex="F:\IdeaProjects\TEMUpload\StaffAttendanceSystem\app\build\intermediates\transforms\dex\debug\folders\1000\10\adapter-rxjava-2.3.0_56938d7dc2a461e7bbb0f9e4ce12d374351ba7cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Frank\.android\build-cache\5fb405bfc992b68c00440e49a98bef6b1fb1462f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="F:\IdeaProjects\TEMUpload\StaffAttendanceSystem\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3a485e0702e170fe6eaa681498cd743a80c0ad7d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Frank\.android\build-cache\330baada1bd3879666a46ddf02690fa710192641\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="c9a721adcd7dbae7a197b0ef81102336539f63ff">
+        <dex dex="F:\IdeaProjects\TEMUpload\StaffAttendanceSystem\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3c48a24abbc604ffaf7c1470cf39dc9303d6576b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Frank\.android\build-cache\7fe0ed6d2a9980a49d7743d6d0d6c4d8dc8d1cf4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="F:\IdeaProjects\TEMUpload\StaffAttendanceSystem\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6fa337e60865081bbc5e66c8daf1b2172c641f65\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\IdeaProjects\TEMUpload\StaffAttendanceSystem\app\libs\ksoap2-android-assembly-3.1.0-jar-with-dependencies.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="aa6e8d9b65f13e7aff4c0e45f67ca8686998b9e2">
+        <dex dex="F:\IdeaProjects\TEMUpload\StaffAttendanceSystem\app\build\intermediates\transforms\dex\debug\folders\1000\2\ksoap2-android-assembly-3.1.0-jar-with-dependencies_dedd1a3891bf8f7c9327222558fb92b73202798c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\IdeaProjects\TEMUpload\StaffAttendanceSystem\app\libs\additionnal.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="F:\IdeaProjects\TEMUpload\StaffAttendanceSystem\app\build\intermediates\transforms\dex\debug\folders\1000\2\additionnal_1fc7c8fa262bf734116b9b48e4dfbb38bfbf1a31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\IdeaProjects\TEMUpload\StaffAttendanceSystem\app\libs\activation.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="F:\IdeaProjects\TEMUpload\StaffAttendanceSystem\app\build\intermediates\transforms\dex\debug\folders\1000\2\activation_9392223f9d6d99f9ed9eebfd88612140f5c94924\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidWorkEnvironment\.gradle\caches\modules-2\files-2.1\net.vidageek\mirror\1.6.1\7eeaef220dc37a5c9435764e3736f251d2d702bf\mirror-1.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="7eeaef220dc37a5c9435764e3736f251d2d702bf">
+        <dex dex="F:\IdeaProjects\TEMUpload\StaffAttendanceSystem\app\build\intermediates\transforms\dex\debug\folders\1000\10\mirror-1.6.1_8fa13c2f799801ec6249a592424f91577f64ae2e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudioProject\KaoQin\app\libs\mail.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="F:\AndroidStudioProject\KaoQin\app\build\intermediates\transforms\dex\debug\folders\1000\2\mail_3243f3c5a55c1b112886be96525b4905334351fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\IdeaProjects\TEMUpload\StaffAttendanceSystem\app\libs\commons-email-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="6cd5d2b5c11d2898b901e3162d825b804699187d">
+        <dex dex="F:\IdeaProjects\TEMUpload\StaffAttendanceSystem\app\build\intermediates\transforms\dex\debug\folders\1000\2\commons-email-1.2_f8cf3c1e67049ac28d32970039adbab2d3d4cd14\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidWorkEnvironment\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.8.0\f765f004f3e201bd6ad0904266e605d7fb776d5\logging-interceptor-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="0f765f004f3e201bd6ad0904266e605d7fb776d5">
+        <dex dex="F:\IdeaProjects\TEMUpload\StaffAttendanceSystem\app\build\intermediates\transforms\dex\debug\folders\1000\10\logging-interceptor-3.8.0_aab72439ed14190a26332ac147bc92a244170556\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudioProject\KaoQin\app\libs\MobCommons-2016.0303.1229.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="daa572a22ffbbf3550a9e3e4d65045c3e3936602">
+        <dex dex="F:\AndroidStudioProject\KaoQin\app\build\intermediates\transforms\dex\debug\folders\1000\2\MobCommons-2016.0303.1229_f2ab896290ea8d517dc7d810e0800729712b7f26\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Frank\.android\build-cache\9a318a1ed0db5371f56cd4d4156144b9dd2bcb3f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="2feadd535770271ca57b7b431f42151aa4af324a">
+        <dex dex="F:\IdeaProjects\TEMUpload\StaffAttendanceSystem\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4f0e98f0f8fcf49b2bb1f8e9334c0c0420b92135\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidWorkEnvironment\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.3.0\9e09011e9767bb76b5e27c9b8223476b93b14631\converter-gson-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="F:\IdeaProjects\TEMUpload\StaffAttendanceSystem\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.3.0_3cf0967ecf08ce091b682aae894f868fa107463c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\IdeaProjects\TEMUpload\StaffAttendanceSystem\app\libs\httpcore-4.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="3b7f38df6de5dd8b500e602ae8c2dd5ee446f883">
+        <dex dex="F:\IdeaProjects\TEMUpload\StaffAttendanceSystem\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpcore-4.2.4_144d47e044505a194d10d41df170b18c39f5fc1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Frank\.android\build-cache\4c58399b2e6964f73ea3fee051815de7917b6240\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="71d380aeac037e63bab7bda2ba211777e16a2f42">
+        <dex dex="F:\IdeaProjects\TEMUpload\StaffAttendanceSystem\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_682399fba685c86f8a1cd0d9d08b780d480532c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidWorkEnvironment\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="F:\IdeaProjects\TEMUpload\StaffAttendanceSystem\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.13.0_4fd1e12797055dd929c9065572e74852e2819244\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\IdeaProjects\TEMUpload\StaffAttendanceSystem\app\libs\commons-net-3.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="cd0d5510908225f76c5fe5a3f1df4fa44866f81e">
+        <dex dex="F:\IdeaProjects\TEMUpload\StaffAttendanceSystem\app\build\intermediates\transforms\dex\debug\folders\1000\2\commons-net-3.3_46996ff1df0f20a06e6d2ab5de8908c6a329c203\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidSDK\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="F:\IdeaProjects\TEMUpload\StaffAttendanceSystem\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_1edb48c3b979b28e4d38bacebf35d1054b290dcf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidWorkEnvironment\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.3.0\af000bec2036a2a9d07197c4b03b8966bfc60b03\rxjava-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="af000bec2036a2a9d07197c4b03b8966bfc60b03">
+        <dex dex="F:\IdeaProjects\TEMUpload\StaffAttendanceSystem\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-1.3.0_f10649943e18649c0fccb6ca8e232de82babc2fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\IdeaProjects\TEMUpload\StaffAttendanceSystem\app\libs\MobCommons-2016.0303.1229.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="daa572a22ffbbf3550a9e3e4d65045c3e3936602">
+        <dex dex="F:\IdeaProjects\TEMUpload\StaffAttendanceSystem\app\build\intermediates\transforms\dex\debug\folders\1000\2\MobCommons-2016.0303.1229_dc28febd24adcb61e471fe788d33a6372e3da643\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudioProject\KaoQin\app\libs\SMSSDK-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d06f7ca553bedcbbc7b6a9b5be1c6f2503dc5064">
+        <dex dex="F:\AndroidStudioProject\KaoQin\app\build\intermediates\transforms\dex\debug\folders\1000\2\SMSSDK-2.0.2_4b1ff5b624b38b40a44afbfc581a3782bb1e859e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidWorkEnvironment\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.1.0\8007981f7d7540d89cd18471b8e5dcd2b4f99167\common-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="8007981f7d7540d89cd18471b8e5dcd2b4f99167">
+        <dex dex="F:\IdeaProjects\TEMUpload\StaffAttendanceSystem\app\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.1.0_6cd9eb549b71ffadfd956b1a5c244d83e11ac264\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidWorkEnvironment\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="F:\IdeaProjects\TEMUpload\StaffAttendanceSystem\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_c8913a9ba8e7efb36353404c2559c626c12ff4a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudioProject\KaoQin\app\libs\activation.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="F:\AndroidStudioProject\KaoQin\app\build\intermediates\transforms\dex\debug\folders\1000\2\activation_944f9838d758936aa345d2b66c3e1e2251f628fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudioProject\KaoQin\app\libs\additionnal.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="F:\AndroidStudioProject\KaoQin\app\build\intermediates\transforms\dex\debug\folders\1000\2\additionnal_324df80a7f5e90c03db183c1cb191d70a8d03444\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\IdeaProjects\TEMUpload\StaffAttendanceSystem\app\libs\mail.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="F:\IdeaProjects\TEMUpload\StaffAttendanceSystem\app\build\intermediates\transforms\dex\debug\folders\1000\2\mail_a8c2aeb3f23e10946480522c34a589696219d2de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Frank\.android\build-cache\c0a1a4e26a879d0dbbbd70371d3ac42597d6c84b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="23dcb4803d3103bde3f3f5db978a726338fe49ae">
+        <dex dex="F:\IdeaProjects\TEMUpload\StaffAttendanceSystem\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1811f0225ae9eef868d53c38c8a8d9af76617b46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Frank\.android\build-cache\bbd21265d4e7bde7980141b2a7199daa59e10343\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="ec657bb192b20229696216bf233779b16bf75a54">
+        <dex dex="F:\IdeaProjects\TEMUpload\StaffAttendanceSystem\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7845a575b01caa022cfe5a4047f044fa1e7f5d36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidWorkEnvironment\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.8.0\5a11f020cce2d11eb71ba916700600e18c4547e7\okhttp-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="F:\IdeaProjects\TEMUpload\StaffAttendanceSystem\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.8.0_6714a8af02b32c3f1d76cda57c1d549ce46f1f3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudioProject\KaoQin\app\libs\httpclient-4.2.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3bfeb9062b12d5b340445336790dbc14c59c2d79">
+        <dex dex="F:\AndroidStudioProject\KaoQin\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpclient-4.2.5_bc4b179f0e6f0d048893b751b2c6a98b57aa7711\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\IdeaProjects\TEMUpload\StaffAttendanceSystem\app\libs\SMSSDK-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="d06f7ca553bedcbbc7b6a9b5be1c6f2503dc5064">
+        <dex dex="F:\IdeaProjects\TEMUpload\StaffAttendanceSystem\app\build\intermediates\transforms\dex\debug\folders\1000\2\SMSSDK-2.0.2_869af68800eb731702fa295ffc6a11ab189686f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudioProject\KaoQin\app\libs\MobTools-2016.0303.1229.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d76d489d04db5e475927a0077c8677b0e3a9fb8a">
+        <dex dex="F:\AndroidStudioProject\KaoQin\app\build\intermediates\transforms\dex\debug\folders\1000\2\MobTools-2016.0303.1229_99b441595f109ee6103ef71e5cc62e0b78b76f9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudioProject\KaoQin\app\libs\fastjson-1.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b3cd06ff3f21c8cf487c241ed145154fbae6b4e2">
+        <dex dex="F:\AndroidStudioProject\KaoQin\app\build\intermediates\transforms\dex\debug\folders\1000\2\fastjson-1.2.2_b5656014cd2aa229dac1116eae3d0ad12ce60637\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Frank\.android\build-cache\ed03c5628f3a5628efb35a498294994ae9ac1b15\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="3304d33470ff64cf83bce9189ff3648a42eb2aa7">
+        <dex dex="F:\IdeaProjects\TEMUpload\StaffAttendanceSystem\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3fb5ed59a4a9c65ffaca717a408732ca5dd9d0c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Frank\.android\build-cache\15c9b4312ed9c353058376a14035ea59cbaf116e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="874f1143c11f5d38533efe512bf913e3e847e7df">
+        <dex dex="F:\IdeaProjects\TEMUpload\StaffAttendanceSystem\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_48448fc7ababbb9636ca152065ff0977a53bf8db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidWorkEnvironment\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\27.1.1\39ded76b5e1ce1c5b2688e1d25cdc20ecee32007\support-annotations-27.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="F:\IdeaProjects\TEMUpload\StaffAttendanceSystem\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-27.1.1_e0060f9357ae2fb95a9a078d76b8bfdb8913b8ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Frank\.android\build-cache\a7a509d088c0dc84210ab514531b869899b8df57\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="8a9fd7c97f1d13f97f3b52f9d2e54cd857d5acf9">
+        <dex dex="F:\IdeaProjects\TEMUpload\StaffAttendanceSystem\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_aba12db39745d284f6938614ada968749a5e5cf1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Frank\.android\build-cache\5a1a2e641d4638ffc426f01f517d4e93e2635918\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="d968b9bd0011800e0d333d1571b8d34bcb8a0b6e">
+        <dex dex="F:\IdeaProjects\TEMUpload\StaffAttendanceSystem\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4878755198adf9a468f4e8d1c1c8d20b47725c3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidWorkEnvironment\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.3.0\bcacde6a8ccedcc56c127403d26b76072fe6214d\retrofit-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="F:\IdeaProjects\TEMUpload\StaffAttendanceSystem\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.3.0_171ad7d0ecf3a54b3af60b533e659db8d2e81d33\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudioProject\KaoQin\app\libs\commons-email-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6cd5d2b5c11d2898b901e3162d825b804699187d">
+        <dex dex="F:\AndroidStudioProject\KaoQin\app\build\intermediates\transforms\dex\debug\folders\1000\2\commons-email-1.2_97daaea216acb8cd83e67fa385cd51d617c54210\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudioProject\KaoQin\app\libs\ksoap2-android-assembly-3.1.0-jar-with-dependencies.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="aa6e8d9b65f13e7aff4c0e45f67ca8686998b9e2">
+        <dex dex="F:\AndroidStudioProject\KaoQin\app\build\intermediates\transforms\dex\debug\folders\1000\2\ksoap2-android-assembly-3.1.0-jar-with-dependencies_e0bdd95b55577bc73abe18509ede06b39f37782b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudioProject\KaoQin\app\libs\commons-net-3.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cd0d5510908225f76c5fe5a3f1df4fa44866f81e">
+        <dex dex="F:\AndroidStudioProject\KaoQin\app\build\intermediates\transforms\dex\debug\folders\1000\2\commons-net-3.3_80b6be1614e3ea22d18e6e470e6b90c88464b144\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudioProject\KaoQin\app\libs\zxing.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e88c14e6e7daa0fa65172a62b54ee6a16ff4162d">
+        <dex dex="F:\AndroidStudioProject\KaoQin\app\build\intermediates\transforms\dex\debug\folders\1000\2\zxing_8525ea8a484126c509d0f1c34b3c2090cd8f5b06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudioProject\KaoQin\app\libs\BaiduLBS_Android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="86e7f2dd8756028105a2ae706b0830dbdd8f3ccb">
+        <dex dex="F:\AndroidStudioProject\KaoQin\app\build\intermediates\transforms\dex\debug\folders\1000\2\BaiduLBS_Android_17d87d6411f8b7154815ffc7789d5b4ccd8bcd4d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\IdeaProjects\TEMUpload\StaffAttendanceSystem\app\libs\httpclient-4.2.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="3bfeb9062b12d5b340445336790dbc14c59c2d79">
+        <dex dex="F:\IdeaProjects\TEMUpload\StaffAttendanceSystem\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpclient-4.2.5_bd01b39d2e5cf42297e6e9b33277236a1a032361\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\IdeaProjects\TEMUpload\StaffAttendanceSystem\app\libs\fastjson-1.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="b3cd06ff3f21c8cf487c241ed145154fbae6b4e2">
+        <dex dex="F:\IdeaProjects\TEMUpload\StaffAttendanceSystem\app\build\intermediates\transforms\dex\debug\folders\1000\2\fastjson-1.2.2_0a143d5d251bf07408e7f4a1834e7f7cb5f331f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudioProject\KaoQin\app\libs\httpcore-4.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3b7f38df6de5dd8b500e602ae8c2dd5ee446f883">
+        <dex dex="F:\AndroidStudioProject\KaoQin\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpcore-4.2.4_7fb58c0f740b3f6cfb59ce5f02ec69c76c28fc1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\IdeaProjects\TEMUpload\StaffAttendanceSystem\app\libs\BaiduLBS_Android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="86e7f2dd8756028105a2ae706b0830dbdd8f3ccb">
+        <dex dex="F:\IdeaProjects\TEMUpload\StaffAttendanceSystem\app\build\intermediates\transforms\dex\debug\folders\1000\2\BaiduLBS_Android_e090f7275c4ea9362979a8e0517424cc79fa4a9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Frank\.android\build-cache\2871b67b96ee16c1925ae7710be90726a2a596fc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="e2bbe48deed35056023eed2cdc0cc92e5c7d3617">
+        <dex dex="F:\IdeaProjects\TEMUpload\StaffAttendanceSystem\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0fbf56d05864e68e6940cc35a9b621a49d3a119b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Frank\.android\build-cache\863fdfa0be628da50347fcd04b71100caa4f0c4f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="F:\IdeaProjects\TEMUpload\StaffAttendanceSystem\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4017e9bac28f194a1c1a2db2941572add3f353de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidWorkEnvironment\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.1.0\edf3f7bfb84a7521d0599efa3b0113a0ee90f85\common-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="0edf3f7bfb84a7521d0599efa3b0113a0ee90f85">
+        <dex dex="F:\IdeaProjects\TEMUpload\StaffAttendanceSystem\app\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.1.0_16f4dfd4e0b120f83fc9b6af4794e6009d50a599\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Frank\.android\build-cache\0a11d1c55e07af4521695dfcf5fed29637aeb2f8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="1fd3ceac7f415975323d52c6c6057db409a907f6">
+        <dex dex="F:\IdeaProjects\TEMUpload\StaffAttendanceSystem\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cec1710a84e98353864ffd90df0eceb5986f1c6a\classes.dex" />
+    </item>
+
+</items>

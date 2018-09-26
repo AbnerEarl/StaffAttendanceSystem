@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="__local_jars__:F.\IdeaProjects\TEMUpload\StaffAttendanceSystem\app\libs\ksoap2-android-assembly-3.1.0-jar-with-dependencies.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/ksoap2-android-assembly-3.1.0-jar-with-dependencies.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

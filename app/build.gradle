@@ -1,0 +1,83 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 27
+    buildToolsVersion "27.0.1"
+    /*packagingOptions {
+        exclude 'META-INF/LICENSE'
+        exclude 'META-INF/NOTICE'
+        //exclude 'META-INF/rxjava.properties'
+    }*/
+    defaultConfig {
+        applicationId "com.example.frank.antitheft"
+        minSdkVersion 15
+        targetSdkVersion 27
+        versionCode 1
+        versionName "1.0"
+        multiDexEnabled true
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        //multiDexEnabled true
+        ndk {
+            abiFilters "armeabi-v7a", "x86"
+        }
+
+        packagingOptions {
+            exclude "lib/arm64-v8a/libgnustl_shared.so"
+        }
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+
+            ndk {
+                abiFilters "armeabi", "armeabi-v7a"
+            }
+
+        }
+
+        debug {
+            ndk {
+                abiFilters "armeabi", "armeabi-v7a"
+            }
+        }
+
+
+    }
+
+
+    sourceSets {
+        main {
+            jniLibs.srcDirs = ['libs']
+        }
+    }
+
+
+    aaptOptions {
+        cruncherEnabled = false
+        useNewCruncher = false
+    }
+
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    compile files('libs/mail.jar')
+    compile 'com.android.support:multidex:1.0.1'
+    compile files('libs/commons-email-1.2.jar')
+    compile files('libs/activation.jar')
+    compile files('libs/additionnal.jar')
+    compile files('libs/BaiduLBS_Android.jar')
+    compile 'com.android.support:appcompat-v7:27.1.1'
+    compile 'com.tamic.novate:novate:1.5.2.3'
+    compile 'net.vidageek:mirror:1.6.1'
+    compile 'com.android.support.constraint:constraint-layout:1.0.2'
+    testCompile 'junit:junit:4.12'
+    compile files('libs/BaiduLBS_Android.jar')
+    /*compile 'io.reactivex.rxjava2:rxandroid:2.0.1'
+    compile 'io.reactivex.rxjava2:rxjava:2.1.0'*/
+    compile files('libs/ksoap2-android-assembly-3.1.0-jar-with-dependencies.jar')
+}
